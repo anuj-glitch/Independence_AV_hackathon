@@ -30,4 +30,4 @@ Note that a research article can possibly have more than 1 topic. The research a
 
 
 ## Competition Result
-Rank: 44th on private LB with score of 0.8386
+Rank: 44th on private LB with score of 83.86, out of 17K+ registered users.
