@@ -1,6 +1,6 @@
-# Independence_AV_hackathon
+## Independence_ML_hackathon
 
-### Rank 44 Solution for Janatahack: Independence Day 2020 ML Hackathon, organized in Analytics Vidhya.
+## Rank 44 Solution for Janatahack: Independence Day 2020 ML Hackathon, organized in Analytics Vidhya.
 
 ### Link to LeaderBoard - 
 (https://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/#LeaderBoard)
